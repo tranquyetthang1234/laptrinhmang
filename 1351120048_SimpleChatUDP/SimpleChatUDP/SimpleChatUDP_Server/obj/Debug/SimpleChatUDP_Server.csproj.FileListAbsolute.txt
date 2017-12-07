@@ -1,0 +1,9 @@
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Server\bin\Debug\SimpleChatUDP_Server.exe.config
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Server\bin\Debug\SimpleChatUDP_Server.exe
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Server\bin\Debug\SimpleChatUDP_Server.pdb
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Server\obj\Debug\SimpleChatUDP_Server.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Server\obj\Debug\SimpleChatUDP_Server.exe
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Server\obj\Debug\SimpleChatUDP_Server.pdb
+D:\Projects\Visual Studio 2015\Projects\1351120048_SimpleChatUDP\SimpleChatUDP\SimpleChatUDP_Server\bin\Debug\SimpleChatUDP_Server.exe.config
+D:\Projects\Visual Studio 2015\Projects\1351120048_SimpleChatUDP\SimpleChatUDP\SimpleChatUDP_Server\obj\Debug\SimpleChatUDP_Server.exe
+D:\Projects\Visual Studio 2015\Projects\1351120048_SimpleChatUDP\SimpleChatUDP\SimpleChatUDP_Server\obj\Debug\SimpleChatUDP_Server.pdb

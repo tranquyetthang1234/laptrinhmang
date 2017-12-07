@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\LoginInfo\bin\Debug\LoginInfo.dll
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\LoginInfo\bin\Debug\LoginInfo.pdb
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\LoginInfo\obj\Debug\LoginInfo.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\LoginInfo\obj\Debug\LoginInfo.dll
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\LoginInfo\obj\Debug\LoginInfo.pdb

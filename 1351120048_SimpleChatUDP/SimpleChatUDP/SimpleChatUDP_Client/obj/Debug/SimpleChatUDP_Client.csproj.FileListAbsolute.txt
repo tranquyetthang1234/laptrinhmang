@@ -1,0 +1,8 @@
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Client\bin\Debug\SimpleChatUDP_Client.exe.config
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Client\bin\Debug\SimpleChatUDP_Client.exe
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Client\bin\Debug\SimpleChatUDP_Client.pdb
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Client\obj\Debug\SimpleChatUDP_Client.exe
+D:\Projects\Visual Studio 2015\Projects\SimpleChatUDP_Server\SimpleChatUDP_Client\obj\Debug\SimpleChatUDP_Client.pdb
+D:\Projects\Visual Studio 2015\Projects\1351120048_SimpleChatUDP\SimpleChatUDP\SimpleChatUDP_Client\bin\Debug\SimpleChatUDP_Client.exe.config
+D:\Projects\Visual Studio 2015\Projects\1351120048_SimpleChatUDP\SimpleChatUDP\SimpleChatUDP_Client\obj\Debug\SimpleChatUDP_Client.exe
+D:\Projects\Visual Studio 2015\Projects\1351120048_SimpleChatUDP\SimpleChatUDP\SimpleChatUDP_Client\obj\Debug\SimpleChatUDP_Client.pdb

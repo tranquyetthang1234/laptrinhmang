@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\bin\Debug\Client.exe.config
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\bin\Debug\Client.exe
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\bin\Debug\Client.pdb
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\obj\Debug\Client.frmClient.resources
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\obj\Debug\Client.exe
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\obj\Debug\Client.pdb
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\bin\Debug\LoginInfo.dll
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\bin\Debug\LoginInfo.pdb
+D:\Projects\Visual Studio 2015\Projects\1351120048_UngDungChat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
